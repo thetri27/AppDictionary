@@ -1,0 +1,7 @@
+apple-quả táo
+book-sách
+pen-bút
+computer-máy tính
+activity-hành động
+network-mạng
+phone-điện thoại
